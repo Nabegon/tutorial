@@ -1,2 +1,2 @@
 # tutorial
-This is just for my practice.
+This is just for myself.
